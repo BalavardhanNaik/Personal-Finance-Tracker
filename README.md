@@ -36,6 +36,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For any inquiries or questions, please contact [email protected]
+For any inquiries or questions, please contact [baluchamp628@gmail.com]
 
 Enjoy managing your finances with Personal Finance Tracker!
